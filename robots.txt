@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://mmerchante.github.io/blog-public/sitemap.xml
