@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Publications on Broken Shadow Maps</title>
-    <link>https://mmerchante.github.io/blog-public/publications/</link>
+    <link>https://brokenshadowmaps.com/publications/</link>
     <description>Recent content in Publications on Broken Shadow Maps</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmerchante.github.io/blog-public/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://brokenshadowmaps.com/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Featured Art</title>
-      <link>https://mmerchante.github.io/blog-public/publications/featured/</link>
+      <link>https://brokenshadowmaps.com/publications/featured/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/featured/</guid>
+      <guid>https://brokenshadowmaps.com/publications/featured/</guid>
       <description>This section contains all the places my artwork has been featured or referenced externally.
 Tolkien Gateway (2022) The Tolkien Gateway is a wiki dedicated for the works of J.R.R. Tolkien, and is one of the biggest resources for anything Tolkien in general. In fact, it was what I used to study the source material for my Door of Night project.
 After I published my piece, they requested to use the render as illustration for the wiki page, which you can find here.</description>
@@ -19,20 +19,20 @@ After I published my piece, they requested to use the render as illustration for
     
     <item>
       <title>[GPU Zen 2] Soft Shadows Approximation for Dappled Light Sources</title>
-      <link>https://mmerchante.github.io/blog-public/publications/gpuzen2/</link>
+      <link>https://brokenshadowmaps.com/publications/gpuzen2/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/gpuzen2/</guid>
+      <guid>https://brokenshadowmaps.com/publications/gpuzen2/</guid>
       <description>I wrote a chapter for GPU Zen 2 focused on emulating dappled soft shadows.
 Inspired by depth of field splatting techniques, this chapter focuses on an approximation that identifies points of high variance in a shadow map and reuses such points to project a slice of the light source shape. This reduces the cost of searching, filtering and sampling the depth map, common in other shadow mapping techniques. It also gives artistic control of the light shape to the user, making certain effects like rendering crescent shadows possible.</description>
     </item>
     
     <item>
       <title>[GDC/SIGGRAPH 18] Cone Marching in VR: Developing a Fractal Experience at 90fps</title>
-      <link>https://mmerchante.github.io/blog-public/publications/fractals/</link>
+      <link>https://brokenshadowmaps.com/publications/fractals/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/fractals/</guid>
+      <guid>https://brokenshadowmaps.com/publications/fractals/</guid>
       <description>At Framestore, I worked on a VR fractal explorer called CoralVR with Johannes Saam.
 Most of my work was optimizing raymarching techniques for fractal geometry in stereo rendering, and also finding/combining cool fractals in an art-directable manner.
 Among the tricks we implemented were two key ones: one is conemarching, a hierarchical raymarching technique that had previous literature. The other is stereo reprojection &amp;ndash; we found a way to extend existing reprojection techniques designed for rasterization and solve the gap filling problem given that we&amp;rsquo;re using SDFs and raymarching.</description>
@@ -40,10 +40,10 @@ Among the tricks we implemented were two key ones: one is conemarching, a hierar
     
     <item>
       <title>[PROCJAM 2017] An emotion based framework for procedural music video generation</title>
-      <link>https://mmerchante.github.io/blog-public/publications/procjam/</link>
+      <link>https://brokenshadowmaps.com/publications/procjam/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/procjam/</guid>
+      <guid>https://brokenshadowmaps.com/publications/procjam/</guid>
       <description>For PROCJAM &amp;ndash; a jam about procedural generation &amp;ndash; I built a proof of concept for a music video generator based on compositional principles.
 It leverages a simplified emotion representation, a set of music annotation tools based on such framework and a director/solver that figures out how to represent a specific set of assets and scenes in a spatio-temporal way that is aligned with the music.
 It uses a very simple Monte Carlo planning scheme where every frame it generates thousands of alternative shots, evaluates a heuristic for shot quality and chooses the best one.</description>
@@ -51,10 +51,10 @@ It uses a very simple Monte Carlo planning scheme where every frame it generates
     
     <item>
       <title>[EVA 2015] Tricks and Effects for Mobile Games</title>
-      <link>https://mmerchante.github.io/blog-public/publications/eva2015/</link>
+      <link>https://brokenshadowmaps.com/publications/eva2015/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/eva2015/</guid>
+      <guid>https://brokenshadowmaps.com/publications/eva2015/</guid>
       <description>In 2015 I gave a talk with Nicolás Biondi at EVA, a game development conference in Argentina.
 We talked about art pipeline, general rendering effects and tricks for mobile games &amp;ndash; specifically Party of Heroes, a game we had recently shipped.
 Roughly, I discussed the following:
@@ -63,10 +63,10 @@ SphereLit rendering tricks Fake BRDF LUTs for artist driven looks Gradient mappi
     
     <item>
       <title>[NVIDIA Developer] Enhancing Dedalord’s Skiing Fred for Tegra 4</title>
-      <link>https://mmerchante.github.io/blog-public/publications/skiingfred/</link>
+      <link>https://brokenshadowmaps.com/publications/skiingfred/</link>
       <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/skiingfred/</guid>
+      <guid>https://brokenshadowmaps.com/publications/skiingfred/</guid>
       <description>One of the first games I worked on at Dedalord was Skiing Fred, a fast paced mobile game runner where I worked on a lot of the graphics and some of the gameplay.
 The Tegra 4 had just released, so we implemented some additional graphical features with the additional horsepower that it provided.
 You can read more about it on NVIDIA&amp;rsquo;s developer webpage</description>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Broken Shadow Maps</title>
-    <link>https://mmerchante.github.io/blog-public/posts/</link>
+    <link>https://brokenshadowmaps.com/posts/</link>
     <description>Recent content in Posts on Broken Shadow Maps</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Jan 2023 18:58:21 -0800</lastBuildDate><atom:link href="https://mmerchante.github.io/blog-public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 18:58:21 -0800</lastBuildDate><atom:link href="https://brokenshadowmaps.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nothing to see here, yet!</title>
-      <link>https://mmerchante.github.io/blog-public/posts/helloworld/</link>
+      <link>https://brokenshadowmaps.com/posts/helloworld/</link>
       <pubDate>Sat, 14 Jan 2023 18:58:21 -0800</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/posts/helloworld/</guid>
+      <guid>https://brokenshadowmaps.com/posts/helloworld/</guid>
       <description>This is the beginning of my blog &amp;ndash; I want this space to share thoughts, ideas and potentially more fleshed out articles about rendering, graphics and art.
 So with that in mind:
 $$ Hello World !$$</description>

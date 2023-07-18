@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Broken Shadow Maps</title>
-    <link>https://mmerchante.github.io/blog-public/</link>
+    <link>https://brokenshadowmaps.com/</link>
     <description>Recent content on Broken Shadow Maps</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Jan 2023 18:58:21 -0800</lastBuildDate><atom:link href="https://mmerchante.github.io/blog-public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 18:58:21 -0800</lastBuildDate><atom:link href="https://brokenshadowmaps.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nothing to see here, yet!</title>
-      <link>https://mmerchante.github.io/blog-public/posts/helloworld/</link>
+      <link>https://brokenshadowmaps.com/posts/helloworld/</link>
       <pubDate>Sat, 14 Jan 2023 18:58:21 -0800</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/posts/helloworld/</guid>
+      <guid>https://brokenshadowmaps.com/posts/helloworld/</guid>
       <description>This is the beginning of my blog &amp;ndash; I want this space to share thoughts, ideas and potentially more fleshed out articles about rendering, graphics and art.
 So with that in mind:
 $$ Hello World !$$</description>
@@ -19,10 +19,10 @@ $$ Hello World !$$</description>
     
     <item>
       <title>Featured Art</title>
-      <link>https://mmerchante.github.io/blog-public/publications/featured/</link>
+      <link>https://brokenshadowmaps.com/publications/featured/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/featured/</guid>
+      <guid>https://brokenshadowmaps.com/publications/featured/</guid>
       <description>This section contains all the places my artwork has been featured or referenced externally.
 Tolkien Gateway (2022) The Tolkien Gateway is a wiki dedicated for the works of J.R.R. Tolkien, and is one of the biggest resources for anything Tolkien in general. In fact, it was what I used to study the source material for my Door of Night project.
 After I published my piece, they requested to use the render as illustration for the wiki page, which you can find here.</description>
@@ -30,10 +30,10 @@ After I published my piece, they requested to use the render as illustration for
     
     <item>
       <title>Door of Night</title>
-      <link>https://mmerchante.github.io/blog-public/projects/art/door-of-night/</link>
+      <link>https://brokenshadowmaps.com/projects/art/door-of-night/</link>
       <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/art/door-of-night/</guid>
+      <guid>https://brokenshadowmaps.com/projects/art/door-of-night/</guid>
       <description>An homage to John Howe&amp;rsquo;s Door of Night, which was originally done for Tolkien&amp;rsquo;s The Book of Lost Tales. The original illustration was one of my earliest inspirations that got me into fantasy and digital art.
 Featured on the Tolkien Gateway
 Originally started as a project for a class I took in 2017, I had to put this project on the side throughout many years, iterating over it slowly and redesigning it over time.</description>
@@ -41,10 +41,10 @@ Originally started as a project for a class I took in 2017, I had to put this pr
     
     <item>
       <title>NYC Police Headquarters</title>
-      <link>https://mmerchante.github.io/blog-public/projects/art/headquarters/</link>
+      <link>https://brokenshadowmaps.com/projects/art/headquarters/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/art/headquarters/</guid>
+      <guid>https://brokenshadowmaps.com/projects/art/headquarters/</guid>
       <description>Featured in 3D World and 80LV
 A reconstruction of an old neoclassical building that used to be New York&amp;rsquo;s Police Headquarters (240 Centre Street building).
 Around 2018 I was sent by Framestore to the NY offices to work on a Magic Leap project. I was walking near Little Italy around golden hour, looked up and became mesmerized by a really cool piece of architecture. I was able to take a quick picture and moved on, but the image &amp;ndash; the feeling of its volume &amp;ndash; still persisted, so I eventually decided to rebuild it digitally.</description>
@@ -52,20 +52,20 @@ Around 2018 I was sent by Framestore to the NY offices to work on a Magic Leap p
     
     <item>
       <title>[GPU Zen 2] Soft Shadows Approximation for Dappled Light Sources</title>
-      <link>https://mmerchante.github.io/blog-public/publications/gpuzen2/</link>
+      <link>https://brokenshadowmaps.com/publications/gpuzen2/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/gpuzen2/</guid>
+      <guid>https://brokenshadowmaps.com/publications/gpuzen2/</guid>
       <description>I wrote a chapter for GPU Zen 2 focused on emulating dappled soft shadows.
 Inspired by depth of field splatting techniques, this chapter focuses on an approximation that identifies points of high variance in a shadow map and reuses such points to project a slice of the light source shape. This reduces the cost of searching, filtering and sampling the depth map, common in other shadow mapping techniques. It also gives artistic control of the light shape to the user, making certain effects like rendering crescent shadows possible.</description>
     </item>
     
     <item>
       <title>SDF Generator for Unity</title>
-      <link>https://mmerchante.github.io/blog-public/projects/tech/sdfgen/</link>
+      <link>https://brokenshadowmaps.com/projects/tech/sdfgen/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/tech/sdfgen/</guid>
+      <guid>https://brokenshadowmaps.com/projects/tech/sdfgen/</guid>
       <description>Writing SDFs by hand is fun! But it can be a slow and arduous process.
 This tool is an signed distance field (SDF) code generator running inside Unity.
 It lets the user make and combine distance functions to make interesting scenes inside an intuitive editor such as Unity. It then tries to optimize the code for specific known cases (for example, it tries to prevent using matrices when dealing with planes), but it is far from complete.</description>
@@ -73,10 +73,10 @@ It lets the user make and combine distance functions to make interesting scenes 
     
     <item>
       <title>[GDC/SIGGRAPH 18] Cone Marching in VR: Developing a Fractal Experience at 90fps</title>
-      <link>https://mmerchante.github.io/blog-public/publications/fractals/</link>
+      <link>https://brokenshadowmaps.com/publications/fractals/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/fractals/</guid>
+      <guid>https://brokenshadowmaps.com/publications/fractals/</guid>
       <description>At Framestore, I worked on a VR fractal explorer called CoralVR with Johannes Saam.
 Most of my work was optimizing raymarching techniques for fractal geometry in stereo rendering, and also finding/combining cool fractals in an art-directable manner.
 Among the tricks we implemented were two key ones: one is conemarching, a hierarchical raymarching technique that had previous literature. The other is stereo reprojection &amp;ndash; we found a way to extend existing reprojection techniques designed for rasterization and solve the gap filling problem given that we&amp;rsquo;re using SDFs and raymarching.</description>
@@ -84,10 +84,10 @@ Among the tricks we implemented were two key ones: one is conemarching, a hierar
     
     <item>
       <title>Magical/Mystical Moments</title>
-      <link>https://mmerchante.github.io/blog-public/projects/art/magical-moments/</link>
+      <link>https://brokenshadowmaps.com/projects/art/magical-moments/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/art/magical-moments/</guid>
+      <guid>https://brokenshadowmaps.com/projects/art/magical-moments/</guid>
       <description>Featured in CG@Penn&amp;rsquo;s
 A reconstruction of University of Pennsylvania&amp;rsquo;s College Hall, in a magical, atmospheric winter setting. Done for the SIG lab&amp;rsquo;s Holiday Card.
 More WIP renders on my ArtStation
@@ -97,10 +97,10 @@ Personally, I think that a huge aspect of believability comes from irregularitie
     
     <item>
       <title>[PROCJAM 2017] An emotion based framework for procedural music video generation</title>
-      <link>https://mmerchante.github.io/blog-public/publications/procjam/</link>
+      <link>https://brokenshadowmaps.com/publications/procjam/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/procjam/</guid>
+      <guid>https://brokenshadowmaps.com/publications/procjam/</guid>
       <description>For PROCJAM &amp;ndash; a jam about procedural generation &amp;ndash; I built a proof of concept for a music video generator based on compositional principles.
 It leverages a simplified emotion representation, a set of music annotation tools based on such framework and a director/solver that figures out how to represent a specific set of assets and scenes in a spatio-temporal way that is aligned with the music.
 It uses a very simple Monte Carlo planning scheme where every frame it generates thousands of alternative shots, evaluates a heuristic for shot quality and chooses the best one.</description>
@@ -108,20 +108,20 @@ It uses a very simple Monte Carlo planning scheme where every frame it generates
     
     <item>
       <title>Procedural Rubik City</title>
-      <link>https://mmerchante.github.io/blog-public/projects/tech/rubik/</link>
+      <link>https://brokenshadowmaps.com/projects/tech/rubik/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/tech/rubik/</guid>
+      <guid>https://brokenshadowmaps.com/projects/tech/rubik/</guid>
       <description>A short code-only demo based on &amp;ldquo;To the Moon&amp;rdquo;, by Dunderpatrullen. Done with three.JS and WebGL. Every element is procedurally generated. The buildings are generated by a set of randomized vertex layouts, and the roads are a basic voronoi spliced by a rubik&amp;rsquo;s cube grid.
 This was done as an assignment for a procedural graphics class I took at the University of Pennsylvania. It also required having some post processing.</description>
     </item>
     
     <item>
       <title>Deconstruction</title>
-      <link>https://mmerchante.github.io/blog-public/projects/art/deconstruction/</link>
+      <link>https://brokenshadowmaps.com/projects/art/deconstruction/</link>
       <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/art/deconstruction/</guid>
+      <guid>https://brokenshadowmaps.com/projects/art/deconstruction/</guid>
       <description>Featured in 3DArtist
 A course project with the objective of reproducing a photograph. The reference image is a picture I took in Philadelphia.
 A lot of care was taken to match the camera perspective, the correct illumination of that specific day and time, the shadow silhouette of objects out of the frame, the reflections of the windows and the lighting contribution of the environment, and of course the models &amp;amp; surfaces in general.</description>
@@ -129,10 +129,10 @@ A lot of care was taken to match the camera perspective, the correct illuminatio
     
     <item>
       <title>Canova&#39;s Eurydice</title>
-      <link>https://mmerchante.github.io/blog-public/projects/art/eurydice/</link>
+      <link>https://brokenshadowmaps.com/projects/art/eurydice/</link>
       <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/art/eurydice/</guid>
+      <guid>https://brokenshadowmaps.com/projects/art/eurydice/</guid>
       <description>An interpretation of Eurydice based on an original sculpture by Antonio Canova in 1776.
 A lot of iterations were made to the lighting of this piece, to emphasize Eurydice and Orpheus&amp;rsquo;s story &amp;ndash; I applied concepts used in museum lighting.
 This was done as an assignment for Penn&amp;rsquo;s Introduction to Modeling course. To be fair to my fellow student friends, however, I was already slightly experienced in digital human anatomy. The class&amp;rsquo;s human project let me dig deeper and sharpen my skills.</description>
@@ -140,20 +140,20 @@ This was done as an assignment for Penn&amp;rsquo;s Introduction to Modeling cou
     
     <item>
       <title>University Projects - UPenn</title>
-      <link>https://mmerchante.github.io/blog-public/projects/tech/penn/</link>
+      <link>https://brokenshadowmaps.com/projects/tech/penn/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/tech/penn/</guid>
+      <guid>https://brokenshadowmaps.com/projects/tech/penn/</guid>
       <description>While doing my Computer Graphics and Game Technology Master&amp;rsquo;s at the University of Pennsylvania, I focused on a set of projects that were particularly aligned with my interests. Mostly I used them as a way to improve my skills, explore new ideas and as an excuse to just have fun. These were all done between 2016 and 2017.
 Procedural Computer Graphics (CIS 5660) Angels &amp;amp; Men A quick 1 week project done in three.</description>
     </item>
     
     <item>
       <title>[EVA 2015] Tricks and Effects for Mobile Games</title>
-      <link>https://mmerchante.github.io/blog-public/publications/eva2015/</link>
+      <link>https://brokenshadowmaps.com/publications/eva2015/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/eva2015/</guid>
+      <guid>https://brokenshadowmaps.com/publications/eva2015/</guid>
       <description>In 2015 I gave a talk with Nicolás Biondi at EVA, a game development conference in Argentina.
 We talked about art pipeline, general rendering effects and tricks for mobile games &amp;ndash; specifically Party of Heroes, a game we had recently shipped.
 Roughly, I discussed the following:
@@ -162,20 +162,20 @@ SphereLit rendering tricks Fake BRDF LUTs for artist driven looks Gradient mappi
     
     <item>
       <title>InstanceAlongCurve</title>
-      <link>https://mmerchante.github.io/blog-public/projects/tech/instancealongcurve/</link>
+      <link>https://brokenshadowmaps.com/projects/tech/instancealongcurve/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/tech/instancealongcurve/</guid>
+      <guid>https://brokenshadowmaps.com/projects/tech/instancealongcurve/</guid>
       <description>instanceAlongCurve is a Maya plugin developed in Python that tries to simplify the process of instancing various objects along a curve. The plugin essentially creates a new DAG node which handles all the necessary logic. It also includes a node creation command and a very familiar and user friendly interface.
 I built this in 2015 because Maya didn&amp;rsquo;t provide an intuitive way to do curve instancing. MASH was also being integrated around that time, and although it is pretty powerful, it is a heavier process and not as streamlined as I&amp;rsquo;d prefer.</description>
     </item>
     
     <item>
       <title>[NVIDIA Developer] Enhancing Dedalord’s Skiing Fred for Tegra 4</title>
-      <link>https://mmerchante.github.io/blog-public/publications/skiingfred/</link>
+      <link>https://brokenshadowmaps.com/publications/skiingfred/</link>
       <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/publications/skiingfred/</guid>
+      <guid>https://brokenshadowmaps.com/publications/skiingfred/</guid>
       <description>One of the first games I worked on at Dedalord was Skiing Fred, a fast paced mobile game runner where I worked on a lot of the graphics and some of the gameplay.
 The Tegra 4 had just released, so we implemented some additional graphical features with the additional horsepower that it provided.
 You can read more about it on NVIDIA&amp;rsquo;s developer webpage</description>
@@ -183,30 +183,30 @@ You can read more about it on NVIDIA&amp;rsquo;s developer webpage</description>
     
     <item>
       <title>[VR Jam 2013] Singular Journey</title>
-      <link>https://mmerchante.github.io/blog-public/projects/tech/singular-journey/</link>
+      <link>https://brokenshadowmaps.com/projects/tech/singular-journey/</link>
       <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/tech/singular-journey/</guid>
+      <guid>https://brokenshadowmaps.com/projects/tech/singular-journey/</guid>
       <description>With Manuel Araoz we participated on the first VR Jam held by Oculus by the time the first DK1 was released. We built a walking simulator with some puzzles, and focused on ambiance and immersion.
 I learned a long-lasting lesson with this project: we didn&amp;rsquo;t playtest it enough so the jam reviewers could not get past an early point in the game &amp;ndash; missing the most fun bits. This was a failure of both lack of playtesting and just bad UX/design.</description>
     </item>
     
     <item>
       <title>University Projects - ITBA</title>
-      <link>https://mmerchante.github.io/blog-public/projects/tech/itba/</link>
+      <link>https://brokenshadowmaps.com/projects/tech/itba/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/tech/itba/</guid>
+      <guid>https://brokenshadowmaps.com/projects/tech/itba/</guid>
       <description>Around 2012, while finishing my Software Engineering degree at Instituto Tecnológico de Buenos Aires, I worked on a couple of graphics-related projects that were a lot of fun. These projects solidified my interest in graphics, gamedev and what would later become AR/VR.
 Candylicious For ITBA&amp;rsquo;s game development class, I worked on a couple of simple game projects that got featured in the university&amp;rsquo;s technology fair. It was a great opportunity to work on both technical and art aspects of small games &amp;ndash; I did all the art and wrote all the shaders for both (aside from some of the gameplay).</description>
     </item>
     
     <item>
       <title>Beginnings</title>
-      <link>https://mmerchante.github.io/blog-public/projects/art/old-stuff/</link>
+      <link>https://brokenshadowmaps.com/projects/art/old-stuff/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://mmerchante.github.io/blog-public/projects/art/old-stuff/</guid>
+      <guid>https://brokenshadowmaps.com/projects/art/old-stuff/</guid>
       <description>This is a collection of old finished renders that were formative in my 3D journey.
 Story time: I started learning 3D when I was 13, around 2003. At the time, it was really hard to find tutorials and resources to learn, particularly in accessible in spanish.
 Because of that, one of the things I focused on while learning was also reinterpreting and translating tutorials to spanish. I decided to contribute with various 3D tutorials to DiseñAr, a long gone (but fairly active at that time) argentinian design tutorial website, which also let me learn the basics of teaching.</description>
