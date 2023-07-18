@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Broken Shadow Maps</title>
-    <link>https://mmerchante.github.io/projects/</link>
+    <link>https://mmerchante.github.io/blog-public/projects/</link>
     <description>Recent content on Broken Shadow Maps</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmerchante.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmerchante.github.io/blog-public/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
